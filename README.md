@@ -9,7 +9,7 @@
 
 ## 🔧 開発環境
 - OS: WSL (Ubuntu)
-- コンパイラ: GCC (`gcc --version`)
+- コンパイラ: GCC (`gcc --version 13.3.0`)
 
 ## 📂 ディレクトリ構成
 | フォルダ / ファイル | 説明 |
